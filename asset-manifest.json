@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/digital-timer/static/css/main.a0fcaee3.chunk.css",
+    "main.js": "/digital-timer/static/js/main.ccd96062.chunk.js",
+    "main.js.map": "/digital-timer/static/js/main.ccd96062.chunk.js.map",
+    "runtime-main.js": "/digital-timer/static/js/runtime-main.0d27570b.js",
+    "runtime-main.js.map": "/digital-timer/static/js/runtime-main.0d27570b.js.map",
+    "static/js/2.141b79c5.chunk.js": "/digital-timer/static/js/2.141b79c5.chunk.js",
+    "static/js/2.141b79c5.chunk.js.map": "/digital-timer/static/js/2.141b79c5.chunk.js.map",
+    "index.html": "/digital-timer/index.html",
+    "precache-manifest.152e30dc4fc4a4635a2f3a293cdf0747.js": "/digital-timer/precache-manifest.152e30dc4fc4a4635a2f3a293cdf0747.js",
+    "service-worker.js": "/digital-timer/service-worker.js",
+    "static/css/main.a0fcaee3.chunk.css.map": "/digital-timer/static/css/main.a0fcaee3.chunk.css.map",
+    "static/js/2.141b79c5.chunk.js.LICENSE.txt": "/digital-timer/static/js/2.141b79c5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d27570b.js",
+    "static/js/2.141b79c5.chunk.js",
+    "static/css/main.a0fcaee3.chunk.css",
+    "static/js/main.ccd96062.chunk.js"
+  ]
+}
