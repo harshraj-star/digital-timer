@@ -5,9 +5,161 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.container__page {
+  margin: 300px 0px;
+  /*margin: 30px 0px;*/
+  
+}
+
+.main__display {  
+
+  /*padding: 200px;
+  border-radius: 100rem;
+  margin: -21px 519px;*/
+
+  font-size: 4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  background-color: black;
+  
+}
+
+.button__display {
+  color: blue;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+  margin: 30px 200px;
+  padding: 10px 0px;
+  
+}
+
+.btn__start {
+  
+  border: 2px solid #00ABA9;
+  color: #00ABA9;
+  font-size: 0.9rem;
+
+}
+
+.btn__pause {
+  border: 2px solid #C85454;
+  color: #C85454;
+  font-size: 0.9rem;
+  
+  
+}
+
+.btn__reset {
+  border: 2px solid #0d9dfd;
+  color: #0d9dfd;
+  margin: 0px 12px;
+  font-size: 0.9rem;
+  
+}
+
+.btn__resume {
+  border: 2px solid #C85454;
+  color: #C85454;
+  font-size: 0.9rem;
+  
+}
+
+
+.btn__start:hover {
+  background: #00ABA9;
+  border: 2px solid #00ABA9;
+  color: #fff;
+  cursor: pointer;
+}
+
+.btn__pause:hover {
+  background: #C85454;
+  border: 2px solid #C85454;
+  color: #fff;
+  cursor: pointer;
+}
+.btn__reset:hover {
+  background: #0d9dfd;
+  border: 2px solid#0d9dfd;
+  color: #fff;
+  cursor: pointer;
+}
+.btn__resume:hover {
+  background: #00ABA9;
+  border: 2px solid #00ABA9;
+  color: #fff;
+  cursor: pointer;
+}
+
+.button__view {
+ 
+  border: 2px solid #00ff00;
+  color: #00ff00;
+  margin: 0px 12px;
+  font-size: 0.9rem;
+
+}
+.home__display {
+  align-items: center;
+  justify-content: center;
+  margin: 30px 240px;
+  padding: 10px 100px;
+  display: flex;
+
+}
+
+.button__view:hover {
+  cursor: pointer;
+  background: #0d9dfd;
+  border: 2px solid#0d9dfd;
+  color: #fff;
+}
+.button__back {
+  border: 2px solid #6c62f1;
+  color: #6c62f1;
+  margin: 0px 12px;
+  font-size: 0.9rem;
+}
+
+.button__back:hover {
+  cursor: pointer;
+  background: #0d9dfd;
+  border: 2px solid#0d9dfd;
+  color: #fff;
+}
+
+
+.home__main {
+  align-items: center;
+  justify-content: center;
+  margin: 30px 240px;
+  padding: 10px 100px;
+  display: flex;
+}
+
+.location__style {
+  color: rgb(53, 53, 238);
+  font-family: fantasy;
+}
+
+.main__class {
+  align-items: center;
+  justify-content: center;
+  margin: 30px 240px;
+  padding: 10px 100px;
+  display: flex;
+
+}
+
